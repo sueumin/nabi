@@ -3,6 +3,7 @@ import discord
 import random
 import time
 import datetime
+import os
 
 client = discord.Client()
 
