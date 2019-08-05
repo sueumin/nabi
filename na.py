@@ -1,6 +1,5 @@
 import asyncio
 import discord
-import random
 
 client = discord.Client()
 
